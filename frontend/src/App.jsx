@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-    <h1>Product</h1>
+    <h1>Cart</h1>
     </>
   )
 }
