@@ -6,8 +6,8 @@ function App() {
     <>
     <h1>main Branch</h1>
       <div>
-        <h2>Login Form</h2>
-        <button>Login</button>
+        <h2>SignUp Form</h2>
+        <button>SignUp</button>
       </div>
     </>
   )
