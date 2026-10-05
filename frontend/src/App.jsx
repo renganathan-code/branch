@@ -4,11 +4,9 @@ function App() {
 
   return (
     <>
-    <h1>development</h1>
-    <div>
-      <h2>Login Form</h2>
-    <button>Click</button>
-    </div>
+    <h1>main Branch</h1>
+      <h3>Form</h3>
+      <p>For example, p*4>lorem abbreviation would generate something like this:</p>
     </>
   )
 }
